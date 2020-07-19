@@ -1,0 +1,6 @@
+INSERT INTO user VALUES (1,'1887/01/31','Rahul');
+INSERT INTO user VALUES (2,'1990/05/24','Pradnya');
+INSERT INTO user VALUES (3,'1992/05/25','Sneha');
+INSERT INTO user VALUES (4,'1885/05/01','Indranil');
+INSERT INTO user VALUES (5,'1990/31/07','Sapana');
+INSERT INTO user VALUES (6,'2012/05/01','Kavya');
